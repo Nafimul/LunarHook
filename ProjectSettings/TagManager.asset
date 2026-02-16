@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - GrappleHandle
+  - RopeAnchor
+  - InstantKill
+  - Damaging
+  - Bullet
+  - Coin
+  - GrappleHead
+  - GrapplingHook
+  - Checkpoint
+  - Pullable
+  - Moon
+  - CreditsText
+  - GameManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - Enemy
+  - Player
+  - PlayerCanPassThrough
+  - Ungrappleable
+  - Obstacle
+  - Wielded
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2292122507
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 909567387
+    locked: 0
+  m_RenderingLayers:
+  - Default
