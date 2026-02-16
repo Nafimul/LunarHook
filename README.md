@@ -1,4 +1,4 @@
-!\[Project Demo](screenshots/demo.png)
+![Project Demo](screenshots/demo.png)
 
 
 
